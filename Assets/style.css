@@ -6,13 +6,13 @@
 
 a{
     color:white;
-    font-size: 20px;
+    font-size: 25px;
     
 }
 
 .links{
     color:black;
-    font-size: 15px;
+    font-size: 20px;
 }
 
 .black{
@@ -38,5 +38,5 @@ a{
 
  td{
      padding:10px;
-     
+     font-size: 20px;
  } 
